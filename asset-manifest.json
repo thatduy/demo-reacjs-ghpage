@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/demo-reactjs-ghpage/static/css/main.073c9b0a.css",
-    "main.js": "/demo-reactjs-ghpage/static/js/main.54629055.js",
-    "static/js/787.28cb0dcd.chunk.js": "/demo-reactjs-ghpage/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/demo-reactjs-ghpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/demo-reactjs-ghpage/index.html",
-    "main.073c9b0a.css.map": "/demo-reactjs-ghpage/static/css/main.073c9b0a.css.map",
-    "main.54629055.js.map": "/demo-reactjs-ghpage/static/js/main.54629055.js.map",
-    "787.28cb0dcd.chunk.js.map": "/demo-reactjs-ghpage/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/demo-reacjs-ghpage/static/css/main.073c9b0a.css",
+    "main.js": "/demo-reacjs-ghpage/static/js/main.831426cb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/demo-reacjs-ghpage/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/demo-reacjs-ghpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/demo-reacjs-ghpage/index.html",
+    "main.073c9b0a.css.map": "/demo-reacjs-ghpage/static/css/main.073c9b0a.css.map",
+    "main.831426cb.js.map": "/demo-reacjs-ghpage/static/js/main.831426cb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/demo-reacjs-ghpage/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.54629055.js"
+    "static/js/main.831426cb.js"
   ]
 }
