@@ -6,7 +6,10 @@ function App() {
   return (
     <Routes>
       <Route path={"/abc"}
-        element={<div>Heelo</div>}
+        element={<div>Heelo ABC</div>}
+      ></Route>
+      <Route path={"/def"}
+        element={<div>Heelo DEF</div>}
       ></Route>
     </Routes>
   );
